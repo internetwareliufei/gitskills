@@ -1,3 +1,2 @@
 # gitskills
 ha
-dev
